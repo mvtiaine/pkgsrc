@@ -1,4 +1,4 @@
-DISTNAME=	audacious-uade-0.13.0
+DISTNAME=	audacious-uade-0.13.1
 CATEGORIES=	audio
 MASTER_SITES=	https://github.com/mvtiaine/audacious-uade/releases/download/${PKGVERSION_NOREV}/
 EXTRACT_SUFX=	.tar.bz2
