@@ -94,7 +94,8 @@ share/audacious-uade/share/uade/players/JesperOlsen
 share/audacious-uade/share/uade/players/JesperOlsen_EP
 share/audacious-uade/share/uade/players/JochenHippel
 share/audacious-uade/share/uade/players/JochenHippel-7V
-share/audacious-uade/share/uade/players/JochenHippel-CoSo
+share/audacious-uade/share/uade/players/JochenHippel-CoSo_UADE
+share/audacious-uade/share/uade/players/JochenHippelCOSO
 share/audacious-uade/share/uade/players/JochenHippel_UADE
 share/audacious-uade/share/uade/players/Jochen_Hippel_ST
 share/audacious-uade/share/uade/players/Kim_Christensen
@@ -125,6 +126,7 @@ share/audacious-uade/share/uade/players/MusicMaker-8V
 share/audacious-uade/share/uade/players/MusiclineEditor
 share/audacious-uade/share/uade/players/NTSP-system
 share/audacious-uade/share/uade/players/Nick_Pelling_Packer
+share/audacious-uade/share/uade/players/NoiseTracker
 share/audacious-uade/share/uade/players/NovoTradePacker
 share/audacious-uade/share/uade/players/Octa-MED
 share/audacious-uade/share/uade/players/Octa-MED-Ss
