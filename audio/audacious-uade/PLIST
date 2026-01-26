@@ -4,8 +4,11 @@ share/audacious-uade/doc/COPYING
 share/audacious-uade/doc/COPYING.LGPL
 share/audacious-uade/doc/ChangeLog
 share/audacious-uade/doc/NOTICE
-share/audacious-uade/doc/README
+share/audacious-uade/doc/README.md
 share/audacious-uade/doc/VERSION
+share/audacious-uade/doc/screenshots/screenshot1.png
+share/audacious-uade/doc/screenshots/screenshot2.png
+share/audacious-uade/doc/screenshots/screenshot3.png
 share/audacious-uade/doc/uade/AUTHORS
 share/audacious-uade/doc/uade/COPYING
 share/audacious-uade/doc/uade/COPYING.GPL
